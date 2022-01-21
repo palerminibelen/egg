@@ -28,6 +28,7 @@ public class Cuenta {
     private long DNI;
     private double saldoActual;
     private int saldo;
+    private int atrib2;
     
     //constructores
 

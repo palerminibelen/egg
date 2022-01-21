@@ -27,6 +27,7 @@ public class Cuenta {
     private int numeroCta;
     private long DNI;
     private double saldoActual;
+    private int saldo;
     
     //constructores
 
